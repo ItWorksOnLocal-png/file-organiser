@@ -2,6 +2,10 @@
 
 File Organiser is a simple application built with Python, that organises your files in different folders, based on their type
 
+## Code structure
+
+It's messy, I won't lie, but...hey, it works, right?
+
 ## Installation
 
 No installation needed, just double click to execute it
